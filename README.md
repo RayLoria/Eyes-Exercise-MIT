@@ -47,7 +47,7 @@
 
 ## :dart: About
 
-This project has been created with two eyes that follow the mouse pointer as much as you move it.
+This project has been created with two eyes that follow the mouse pointer as much as you move it, when you touch it the eye close, for the future version I going to add went you touch the eye both close and chance de background for a random image, add some style with css.
 
 ## :sparkles: Features
 
