@@ -49,6 +49,16 @@
 
 This project has been created with two eyes that follow the mouse pointer as much as you move it, when you touch it the eye close, for the future version I going to add went you touch the eye both close and chance de background for a random image, add some style with css.
 
+## :minidisc: How to run ##
+
+No special installation required, just open the index.html file in a web browser. To edit have visual studio code installed
+
+## :spiral_calendar: Roadmap of future improvements ##
+
+:black_circle: Fix some bugs with the eye close.
+:black_circle: Fix resposive desing and add some css style
+
+
 ## :sparkles: Features
 
 ✔️ PacMan images change random;
